@@ -2,11 +2,11 @@
 
 ## Time 
 
-Tuesday 6:30PM - 8:00PM, November 7th , Karlin 4
+**Tuesday 6:30PM - 8:00PM**, November 7th , Karlin 4
 
 ## About
 
-(Routing) Path Validation refers to validating if the propagated routing path is trusted/authorized, and validating if actual forwarding path complies with the intended path. 
+(Routing) **Path Validation** refers to validating if the propagated routing path is trusted/authorized, and validating if actual forwarding path complies with the intended path. 
 
 We will be discussing **use cases, history, current gap and problem space**.  
 
@@ -39,3 +39,10 @@ This problem may interest people that are interested in:
 - trustworthiness assessment of a path, etc. 
 
 If you are interested in the topic, you are most welcomed to read the **use case document** and the **problem statement document** that the proponents co-compile (**2 minutes reading** each). It is the fastest way to know if you are interested. 
+
+## Presenters: 
+
+- Telefonica
+- SCION
+- China Mobile 
+- Huawei
