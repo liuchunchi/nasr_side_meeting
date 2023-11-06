@@ -16,7 +16,7 @@ We will be discussing **use cases, history, current gap and problem space**.
   - Path Validation **Use Cases and Past Experiences**: Telefonica (10 min)
   - Path Validation **Motivation, Use Cases and Solutions**: SCION (15 min)
   - Path Validation **Use Cases**: China Mobile (10 min)
-    - The above use cases were compiled in the use case document we hand out.
+    - The above use cases were compiled in the use case document [1 page briefing].
 - Path Validation **Gap Analysis**: Huawei (15 min)
 
 
