@@ -27,6 +27,7 @@ We will be discussing **use cases, history, current gap and problem space**.
 
 - Remote attendance link: https://ietf.webex.com/meet/sidemeetingietf1
 - Pointer to IETF page: https://wiki.ietf.org/en/meeting/118/sidemeetings#tuesday-7-november
+- Meeting Notes: https://docs.google.com/document/d/1dzeT8eshg2ylOM77_ATo_okZe2U8AcUEU4bxRKEqIjU/edit?usp=sharing
 
 ## Who may be interested?
 
