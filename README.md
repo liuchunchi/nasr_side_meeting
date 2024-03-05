@@ -29,6 +29,7 @@ Materials will be uploaded soon.
 ## Links
 
 ### Documents: 
+- Path Validation Problem Statement: [draft-liu-path-validation-problem-statement-00](https://datatracker.ietf.org/doc/draft-liu-path-validation-problem-statement/)
 - NASR Use Cases and Requirements: [draft-liu-nasr-requirements-01](https://datatracker.ietf.org/doc/draft-liu-nasr-requirements/)
 - NASR Terminology: [draft-richardson-nasr-terminology-00](https://datatracker.ietf.org/doc/draft-richardson-nasr-terminology/)
 - NASR Architecture: upcoming
