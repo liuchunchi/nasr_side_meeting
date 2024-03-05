@@ -53,9 +53,9 @@ This problem may interest people that are interested in:
 - ingress filtering
 
 
-## Presenters: 
+## Presenters and Contacts: 
 
-- Telefonica
-- China Mobile 
-- Pengcheng Laboratory
-- Huawei
+- Telefonica: Diego Lopez <diego.r.lopez@telefonica.com>
+- China Mobile: Meiling Chen <chenmeiling@chinamobile.com>
+- Pengcheng Laboratory: Xiang Liu <liux15@pcl.ac.cn>
+- Huawei: Chunchi Peter Liu (host) <liuchunchi@huawei.com>
