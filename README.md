@@ -1,49 +1,60 @@
-# Repo for the Path Validation Side Meeting at IETF 118
+# Repo for the NASR Side Meeting at IETF 119
 
 ## Time 
 
-**Tuesday 6:30PM - 8:00PM**, November 7th , Karlin 4
+**Wednesday 6:30PM - 8:00PM**, March 20th, Room P6-7
 
 ## About
 
-(Routing) **Path Validation** refers to validating if the propagated routing path is trusted/authorized, and validating if actual forwarding path complies with the intended path. 
+**Network Attestation for Secure Routing** (NASR) is targeted to help attest a specific network path and verify if actual forwarding result is compliant to the attested path and attributes. 
 
-We will be discussing **use cases, history, current gap and problem space**.  
+NASR continues the discussion from IETF 118 Path Validation Side Meeting, whose agenda and materials are also archived in this repo. 
 
-## Agenda
-
-- **Opening echnology introduction**, history, disambiguation (5 minutes)
-  - Path Validation **Use Cases and Past Experiences**: Telefonica (10 min)
-  - Path Validation **Motivation, Use Cases and Solutions**: SCION (15 min)
-  - Path Validation **Use Cases**: China Mobile (10 min)
-    - The above use cases were compiled in the use case document [1 page briefing].
-- Path Validation **Gap Analysis**: Huawei (15 min)
+**Subscribe** to NASR Mailing List: https://www.ietf.org/mailman/listinfo/nasr
 
 
+## Agenda (Tentative)
+
+- **Opening**, IETF note well (5 minutes)
+  - Recapping NASR Mailing List Discussions and Consensus: Huawei (10 min)
+  - Combining Trusted-Path-Routing with Proof-of-Transit, a Possible Architecture: Telefonica, CMCC (15min) 
+  - Trusted Enhanced Path Routing: Pengcheng Lab (10min)
+  - Proof-of-Transit Mechanisms Survey: Huawei France (10min)
+  - ... others welcome!
+- Next Step and Milestones: Huawei (10 min)
 - QA and **Discussions** (30 min)
-- **Wrap up**, and next steps (5 min)
+
+Materials will be uploaded soon.
 
 ## Links
 
-- Remote attendance link: https://ietf.webex.com/meet/sidemeetingietf1
-- Pointer to IETF page: https://wiki.ietf.org/en/meeting/118/sidemeetings#tuesday-7-november
-- Meeting Notes: https://docs.google.com/document/d/1dzeT8eshg2ylOM77_ATo_okZe2U8AcUEU4bxRKEqIjU/edit?usp=sharing
+### Documents: 
+- NASR Use Cases and Requirements: [draft-liu-nasr-requirements-01](https://datatracker.ietf.org/doc/draft-liu-nasr-requirements/)
+- NASR Terminology: [draft-richardson-nasr-terminology-00](https://datatracker.ietf.org/doc/draft-richardson-nasr-terminology/)
+- NASR Architecture: upcoming
+- NASR Charter: upcoming
+
+### Admin
+- Remote attendance link: https://ietf.webex.com/meet/sidemeetingietf2
+- Pointer to IETF page: https://wiki.ietf.org/meeting/119/sidemeetings#wednesday-20-march
+- Meeting Notes: https://docs.google.com/document/d/1t783iHxTjma59v5oG9Fv_SJlks7BrPJFHKLG4p1eqfQ/edit?usp=sharing
+  
 
 ## Who may be interested?
 
 This problem may interest people that are interested in: 
+- routing security 
+- trustworthiness assessment of a path 
 - source routing
 - service function chaining
 - in-situ OAM
 - path tracing
 - ingress filtering
-- trustworthiness assessment of a path, etc. 
 
-If you are interested in the topic, you are most welcomed to read the **use case document** and the **problem statement document** that the proponents co-compile (**2 minutes reading** each). It is the fastest way to know if you are interested. 
 
 ## Presenters: 
 
 - Telefonica
-- SCION
 - China Mobile 
+- Pengcheng Laboratory
 - Huawei
