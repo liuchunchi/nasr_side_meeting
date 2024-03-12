@@ -15,14 +15,14 @@ NASR continues the discussion from IETF 118 Path Validation Side Meeting, whose 
 
 ## Agenda (Tentative)
 
-- **Opening**, IETF note well (5 minutes)
-  - Recapping NASR Mailing List Discussions and Consensus: Huawei (10 min)
-  - Combining Trusted-Path-Routing with Proof-of-Transit, a Possible Architecture: Telefonica, CMCC (15min) 
+- **Opening**, List Discussions Recap (5 minutes)
+  - Current Scope: CMCC (10 min)
+  - Combining Trusted-Path-Routing with Proof-of-Transit, a Possible Architecture: Telefonica (15min) 
   - Trusted Enhanced Path Routing: Pengcheng Lab (10min)
-  - Proof-of-Transit Mechanisms Survey: Huawei France (10min)
+  - Proof-of-Transit Mechanisms Survey/Benchmark: Huawei France (10min)
   - ... others welcome!
-- Next Step and Milestones: Huawei (10 min)
-- QA and **Discussions** (30 min)
+- QA, **Discussions** (30 min)
+- Wrap up, next steps (10 min)
 
 Materials will be uploaded soon.
 
