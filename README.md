@@ -8,7 +8,7 @@
 
 **The goal of NASR** is to achieve secure routing by **ensuring data transits only on trusted devices, trusted operating environments or trusted services**. 
 
-This is achieved by **attesting a specific network path** (along with certain path-level attributes) and** verify if actual forwarding result is compliant to the attested path**. This permits operator use cases such as differentiated trust-level secure lines, quality of trust, routing compliance services, etc. 
+This is achieved by **attesting a specific network path** (along with certain path-level attributes) and **verify if actual forwarding result is compliant to the attested path**. This permits operator use cases such as differentiated trust-level secure lines, quality of trust, routing compliance services, etc. 
 
 NASR continues the discussion from IETF 118 Path Validation Side Meeting, whose agenda and materials are also archived in this repo. 
 
