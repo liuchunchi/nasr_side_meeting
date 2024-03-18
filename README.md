@@ -6,7 +6,7 @@
 
 ## About
 
-**The goal of NASR** is to achieve secure routing by **ensuring data transits only on trusted devices, trusted operating environments or trusted services**. 
+**The goal of NASR** is to achieve secure routing by **ensuring data transits only on trusted devices, trusted links, trusted operating environments or trusted services**. 
 
 **Problem Statement:** Traditional routing security does not guarantee **predictability and auditability of forwarding behaviors**. 
 
