@@ -23,14 +23,14 @@ NASR continues the discussion from IETF 118 Path Validation Side Meeting, whose 
 
 ## Agenda (Tentative)
 
-- **Opening**, List Discussions Recap (5 minutes)
+- **Opening**, List Discussions Recap (10 minutes)
   - Current Scope: CMCC (10 min)
-  - Architecture Proposal, combining TPR+POT: Telefonica (15min) 
+  - Architecture Proposal, combining TPR+POT: Telefonica (15min)
+- **1st QA, Discussions** (15 min)
   - Trusted Enhanced Path Routing: Pengcheng Lab (10min)
   - Proof-of-Transit Mechanisms Survey/Benchmark: Huawei France (10min)
-  - ... others welcome!
-- QA, **Discussions** (30 min)
-- Wrap up, next steps (10 min)
+- **2nd QA, Discussions** (15 min)
+- Wrap up, next steps (5 min)
 
 Materials will be uploaded soon.
 
