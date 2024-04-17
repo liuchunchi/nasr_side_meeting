@@ -44,7 +44,7 @@ Materials will be uploaded soon.
 - NASR Charter: upcoming
 
 ### Admin
-- Remote attendance link: https://ietf.webex.com/meet/sidemeetingietf2
+- Remote attendance link: https://ietf.webex.com/meet/ietfsidemeeting2
 - Pointer to IETF page: https://wiki.ietf.org/meeting/119/sidemeetings#wednesday-20-march
 - Meeting Notes: https://docs.google.com/document/d/1t783iHxTjma59v5oG9Fv_SJlks7BrPJFHKLG4p1eqfQ/edit?usp=sharing
   
